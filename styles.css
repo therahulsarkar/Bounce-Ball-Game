@@ -1,0 +1,11 @@
+#mycanvas{
+
+
+    margin: 125px 0px 125px 295px;
+}
+body {
+  background-size: 300px 150px;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+    background-position: 500px 340px;
+}
